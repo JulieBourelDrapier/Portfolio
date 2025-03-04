@@ -14,13 +14,13 @@
 }
 
 /* MENU BURGER */
-/* body {
-   margin: 0;
-   padding: 0;
-   background: var(--main-color);
-   color: var(--second-color);
-   font-family: var(--light-police)
- } */
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--main-color);
+  color: var(--second-color);
+  font-family: var(--light-police)
+} 
  
 main {
   width: calc(100% - 240px);
@@ -33,7 +33,6 @@ main {
 }
  
 /* Menu code starts here */
-
 #menuToggle {
   display: block;
   position: fixed;
